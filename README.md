@@ -6,7 +6,7 @@ Welcome to My Linear Regression notebook!
 
 You can download the file and see the notebook in your own jupyter notebooks
 
-To run right now - just use this link - https://rawcdn.githack.com/DanWaldman/MyWebsite/a417f4506c9dc2ac7dc22644ded94b0b61985252/Home.html
+To look at right now - just use this link: http://nbviewer.org/github/DanWaldman/LinearRegression/blob/main/LinearRegressionNotebook.ipynb
 
 # Context
 
